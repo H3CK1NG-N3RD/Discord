@@ -1,1 +1,1 @@
-Hello peoples
+Hello people
